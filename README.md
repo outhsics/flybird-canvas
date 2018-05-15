@@ -33,4 +33,5 @@ canvas小游戏指南
 - B.y2 > = this.space + P.y1
 
 
+
 ![](https://user-gold-cdn.xitu.io/2018/5/15/16362d7cf7f20326?w=491&h=764&f=png&s=113754)
