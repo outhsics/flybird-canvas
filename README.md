@@ -1,6 +1,5 @@
 
 canvas小游戏指南
-![](https://user-gold-cdn.xitu.io/2018/5/15/16362d7cf7f20326?w=491&h=764&f=png&s=113754)
 ### 1.布局
 > 绘制背景及图片按照实际图片大小绘制,比如
 - 现获取图片的宽高
@@ -36,3 +35,6 @@ canvas小游戏指南
 
 
 
+
+![](https://user-gold-cdn.xitu.io/2018/5/15/16362da6e29e65b2?w=553&h=442&f=png&s=75251)
+![](https://user-gold-cdn.xitu.io/2018/5/15/16362db16b677fd4?w=551&h=443&f=png&s=75680)
